@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "main": "Home",
+    "who_we_are": "About us",
+    "pages": "Pages",
+    "services": "Services",
+    "contact_us": "Contact Us"
+  },
+  "button": {
+    "text": "contact us",
+    "text2": "send"
+  },
+  "form": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "msg": "Message",
+    "checkName1": "First name is required",
+    "checkName2": "Last name is required",
+    "checkEmail": "Email is required",
+    "checkInvalidEmail": "Email is invalid",
+    "checkPhone": "Phone number is required",
+    "checkMessage": "Message is required",
+    "h2": "Stay in touch with us",
+    "p": "We are waiting for your inquiries, don't worry anymore, we are always at your service!",
+    "text": "Let's get in touch!",
+    "orContinue": "Or Continue with"
+  },
+  "about": {
+    "text": "Learn more about us ",
+    "link": "here"
+  },
+  "beContact": {
+    "text1": "Stay always connected",
+    "text2": "with us !",
+    "text3": "Subscribe to our mailing list to receive the latest updates and offers."
+  },
+  "location": {
+    "location": "Geographical location",
+    "description": "This is our geographical location, you can visit us anytime during our working hours."
+  },
+  "links":{
+    "links":"Links",
+    "who_we_are": "About us",
+    "partners": "Our Partners",
+    "services": "Services",
+    "contact_us": "Contact Us"
+  },
+  "contact_us":{
+    "title":"Contact Us",
+    "description":"Don't worry anymore, we are always at your!"
+  },
+ "footer": {
+    "copyright": "© 2024 - Saad Law Firm. All rights reserved. The website was designed and developed by",
+    "developedBy": "All Safe"
+  }
+}
