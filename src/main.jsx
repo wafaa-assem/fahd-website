@@ -12,7 +12,7 @@ import { reduxStore } from "./Redux/reduxStore.js";
 const storedLang = localStorage.getItem("language") || "en";
 i18next.init({
   interpolation: {
-    escapeValue: false, // react already safes from xss
+    escapeValue: false, // react already safes from xss "this is <p>hello</p>"" react bt2olak mlk4 d3wa mtrgm4 <p> if true == &lt;b&gt;
   },
   resources: {
     en: {

@@ -112,7 +112,7 @@ const Navbar = () => {
       </nav>
 
       {/* mobile sidebar section */}
-      <ResponsiveMenu isShow={isShow} setIsShow={setIsShow} />
+      <ResponsiveMenu isShow={isShow}/>
     </>
   );
 };
