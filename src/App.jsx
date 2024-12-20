@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import NotFound from "./components/NotFound/NotFound";
 import { Suspense, useEffect } from "react";
@@ -14,7 +14,7 @@ const ServicesDetails = lazy(() =>
   import("./pages/ServiceDetails/ServicesDetails")
 );
 
-const route = createBrowserRouter([
+const route = createHashRouter([
   {
     path: "/",
     element: <Layout />,
